@@ -2,7 +2,7 @@
 Using the Kickstarter dataset, I'm analyzing whether there are any common trends that could assist Louise reach her campaign funding goals.
 
 ## Overview of Project
-To assist Louise learn more about crowdfunding campaigns and what criteria would help her have a successful $10,000 campaign for her play "Fever," we looked at Kickstarter data.
+Looking at Kickstarter statistics to help Louise understand more about crowdfunding campaigns and what criteria would help her create a successful $10,000 campaign for her play "Fever."
 
 ### Purpose
 We need to provide Louise visible feedback and insights so she can analyze the campaign from beginning to end and structure her own campaign based on successful ones in the same category.
