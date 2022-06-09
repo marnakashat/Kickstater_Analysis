@@ -21,10 +21,10 @@ To begin the fundamental analysis, the Kickstarter dataset has to be sorted and 
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-**Based on the clear success percentage rate in all categories and the percentage rate in the Play's category, I recommend Louise launch her campaign in May or June.
+Based on the clear success percentage rate in all categories and the percentage rate in the Play's category, I recommend Louise launch her campaign in May or June.
 - What can you conclude about the Outcomes based on Goals?
-**The line graph shows that the outcomes are predicated on a 50% possibility of the goal occuring, so I would advise Louise to keep the wager around $10,000.
+The line graph shows that the outcomes are predicated on a 50% possibility of the goal occuring, so I would advise Louise to keep the wager around $10,000.
 - What are some limitations of this dataset?
-**The information contained in the data set was somewhat old. The analysis of this data collection would have been more accurate if they had provided up-to-date data.
+The information contained in the data set was somewhat old. The analysis of this data collection would have been more accurate if they had provided up-to-date data.
 - What are some other possible tables and/or graphs that we could create?
-**The Theater Outcomes Based on Launched Date line chart can be displayed using a clustered column chart.The Outcomes Based on Goals line chart can be displayed using a stacked column chart.
+The Theater Outcomes Based on Launched Date line chart can be displayed using a clustered column chart.The Outcomes Based on Goals line chart can be displayed using a stacked column chart.
