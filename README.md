@@ -1,5 +1,5 @@
-# Kickstarter-Analysis
-Performing analysis on Kickstarter Data to uncover trends.
+# Kickstarting with Excel
+Using the Kickstarter dataset, I'm analyzing whether there are any common trends that could assist Louise reach her campaign funding goals.
 
 ## Overview of Project
 To assist Louise learn more about crowdfunding campaigns and what criteria would help her have a successful $10,000 campaign for her play "Fever," we looked at Kickstarter data.
