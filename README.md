@@ -12,10 +12,10 @@ I realized the raw data needed to be sorted and prepared for analysis upon revie
 
 ### Analysis of Outcomes Based on Launch Date
 Over a period of time, plays in the Theater category were the most popular. We can observe all of the trend history for the most active months using a line graph for theater results for launch date. The months of May and June had the most successful theater campaigns, while December had the least. After studying the statistics, it appears that May or June would be the best months to begin the play.
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/107198518/172878859-f4a131ae-40fe-42dc-85df-5f4674c749ed.png)
+![Theater_Outcomes_vs_Launch](resource/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 We can better grasp the trends in each range of goals by using a line graph for outcomes based on goal. Goals with a value of less than 1000 were 76 percent successful, while those with a value of $45000 to $49999 were unsuccessful.
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/107198518/172878879-c11b3c65-ac8a-4a3d-9488-bbbfb5792d5a.png)
+![Outcomes_vs_Goals](resource/Outcome_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 To begin the fundamental analysis, the Kickstarter dataset has to be sorted and arranged. To display specific results, I had to refine the searches using filters and update the chart.
 
