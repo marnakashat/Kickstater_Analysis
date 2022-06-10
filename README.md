@@ -15,7 +15,7 @@ Over a period of time, plays in the Theater category were the most popular. We c
 ![Theater_Outcomes_vs_Launch](resource/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 We can better grasp the trends in each range of goals by using a line graph for outcomes based on goal. Goals with a value of less than 1000 were 76 percent successful, while those with a value of $45000 to $49999 were unsuccessful.
-![Outcomes_vs_Goals](resource/Outcome_vs_Goals.png)
+![Outcomes_vs_Goals](resource/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 To begin the fundamental analysis, the Kickstarter dataset has to be sorted and arranged. To display specific results, I had to refine the searches using filters and update the chart.
 
